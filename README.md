@@ -17,20 +17,19 @@
 
 <p>
 <img width="45" alt="JUnit5" src="icons/Junit5.svg">
+<img width="45" alt="Selenium" src="icons/selenium.svg">
 <img width="45" alt="Selenide" src="icons/Selenide.svg">
 <img width="45" alt="RestAssured" src="icons/RestAssured.svg">
 <img width="45" alt="Appium" src="icons/appium.svg">
 <img width="45" alt="Playwright" src="icons/playwright-original.svg">
 <img width="45" alt="Allure" src="icons/Allure.svg">
 <img width="45" alt="Cucumber" src="icons/cucumber-plain.svg">
-<img width="45" alt="Selenium" src="icons/selenium.svg">
 </p>
 
 ### Tools & CI/CD
 
 <p>
 <img width="45" alt="IntelliJ IDEA" src="icons/Idea.svg">
-<img width="45" alt="PyCharm" src="icons/pycharm-original.svg">
 <img width="45" alt="Android Studio" src="icons/androidstudio.svg">
 <img width="45" alt="Maven" src="icons/maven-original.svg">
 <img width="45" alt="Gradle" src="icons/gradle-original.svg">
