@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Dina! 👋</h1>
 
----
-
 <h2 align="center">QA Automation Engineer</h2>
 
 ## About Me
-
----
 
 ## Tech Stack
 
@@ -47,8 +43,6 @@
 <img width="45" alt="Postman" src="icons/postman.svg">
 </p>
 
----
-
 ## My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QAibolit&layout=compact&theme=nightowl&size_weight=0.5&count_weight=0.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -56,8 +50,6 @@
 ![Dina's GitHub stats](https://github-readme-stats.vercel.app/api?username=QAibolit&show_icons=true&theme=nightowl&hide_border=true&hide=issues)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QAibolit&theme=nightowl)
-
----
 
 ## Contacts
 
