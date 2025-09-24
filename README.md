@@ -4,9 +4,9 @@
 
 ## About Me
 
-- I have experience in creating test frameworks from scratch and for existing projects.
+- Experienced in creating new test frameworks and supporting existing ones.
 
-- My goal is to make automation useful by reducing time for testing and finding important bugs early.
+- Focused on making automation effective to reduce testing time and find critical bugs early.
 
 ## Tech Stack
 
@@ -56,8 +56,6 @@
 
 ## Contacts
 
-- Telegram - 
-- Email - 
-- Linkedin - 
+- Email - k.h.dina@yandex.ru
 
 
