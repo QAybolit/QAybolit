@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Dina! 👋</h1>
 
-<h2 align="center">QA Automation Engineer</h2>
+<h2 align="center">Automation QA Engineer</h2>
 
 ## About Me
+
+<p>- I have experience in creating test frameworks from scratch and for existing projects.</p>
+<p>- My goal is to make automation useful by reducing time for testing and finding important bugs early.</p>
 
 ## Tech Stack
 
