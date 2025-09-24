@@ -4,8 +4,9 @@
 
 ## About Me
 
-<p>- I have experience in creating test frameworks from scratch and for existing projects.</p>
-<p>- My goal is to make automation useful by reducing time for testing and finding important bugs early.</p>
+- I have experience in creating test frameworks from scratch and for existing projects.
+
+- My goal is to make automation useful by reducing time for testing and finding important bugs early.
 
 ## Tech Stack
 
