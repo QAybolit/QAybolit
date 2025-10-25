@@ -34,7 +34,7 @@
 
 <p>
 <img width="45" alt="IntelliJ IDEA" src="icons/Idea.svg">
-<img width="45" alt="Android Studio" src="icons/androidstudio.svg">
+<!-- <img width="45" alt="Android Studio" src="icons/androidstudio.svg"> -->
 <img width="45" alt="Maven" src="icons/maven-original.svg">
 <img width="45" alt="Gradle" src="icons/gradle-original.svg">
 <img width="45" alt="PostgreSQL" src="icons/postgresql-original.svg">
