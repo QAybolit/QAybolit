@@ -56,6 +56,6 @@
 
 ## Contacts
 
-- Email - k.h.dina@yandex.ru
+- Email - ...
 
 
